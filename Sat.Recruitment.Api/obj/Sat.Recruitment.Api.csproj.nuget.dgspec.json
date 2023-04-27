@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Gastón (Personal)\\Paramo Test\\Sat.Recruitment\\Sat.Recruitment.Api\\Sat.Recruitment.Api.csproj": {}
+    "C:\\Gastón (Personal)\\Public GIT\\GhallaK\\gaston_refactor\\Sat.Recruitment.Api\\Sat.Recruitment.Api.csproj": {}
   },
   "projects": {
-    "C:\\Gastón (Personal)\\Paramo Test\\Sat.Recruitment\\Sat.Recruitment.Api\\Sat.Recruitment.Api.csproj": {
+    "C:\\Gastón (Personal)\\Public GIT\\GhallaK\\gaston_refactor\\Sat.Recruitment.Api\\Sat.Recruitment.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Gastón (Personal)\\Paramo Test\\Sat.Recruitment\\Sat.Recruitment.Api\\Sat.Recruitment.Api.csproj",
+        "projectUniqueName": "C:\\Gastón (Personal)\\Public GIT\\GhallaK\\gaston_refactor\\Sat.Recruitment.Api\\Sat.Recruitment.Api.csproj",
         "projectName": "Sat.Recruitment.Api",
-        "projectPath": "C:\\Gastón (Personal)\\Paramo Test\\Sat.Recruitment\\Sat.Recruitment.Api\\Sat.Recruitment.Api.csproj",
+        "projectPath": "C:\\Gastón (Personal)\\Public GIT\\GhallaK\\gaston_refactor\\Sat.Recruitment.Api\\Sat.Recruitment.Api.csproj",
         "packagesPath": "C:\\Users\\ghallak\\.nuget\\packages\\",
-        "outputPath": "C:\\Gastón (Personal)\\Paramo Test\\Sat.Recruitment\\Sat.Recruitment.Api\\obj\\",
+        "outputPath": "C:\\Gastón (Personal)\\Public GIT\\GhallaK\\gaston_refactor\\Sat.Recruitment.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

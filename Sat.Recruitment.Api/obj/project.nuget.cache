@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mpZ0ZEQ4QOvQVsFuQCRkZ8dYz+FP5/PwMMh63Tj1aWwOGornAC/mfZH6+hFIJXd3Df5nbpGtFpZAD5e24s5Y2w==",
+  "dgSpecHash": "ST1WQUKbIbwZfdTrlRedeyeWVkKM4kgG8SZdwugIRHjCheu6JFUdW/1pLv8kb/0PQe2wpJ0KVTGYqsfP/JF6Xg==",
   "success": true,
-  "projectFilePath": "C:\\Gastón (Personal)\\Paramo Test\\Sat.Recruitment\\Sat.Recruitment.Api\\Sat.Recruitment.Api.csproj",
+  "projectFilePath": "C:\\Gastón (Personal)\\Public GIT\\GhallaK\\gaston_refactor\\Sat.Recruitment.Api\\Sat.Recruitment.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ghallak\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\ghallak\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
